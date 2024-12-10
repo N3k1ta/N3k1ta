@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **budash.code@gmail.com**
 
-- ⚡ Fun fact **I'm a professional post-productions mixer [IMDb](https://www.imdb.com/name/nm7625593/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
