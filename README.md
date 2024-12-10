@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita Budash</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [happy-nerding-app](https://github.com/N3k1ta/happy-nerdig-app)
+- 🔭 I’m currently working on [exil-solidare](https://github.com/exil-solidare/nextjs-frontend)
 
 - 🌐 Check out the live project: [happy-nerding-app](https://happy-nerdig-app-git-main-nikitas-projects-8a5242bb.vercel.app)
 
