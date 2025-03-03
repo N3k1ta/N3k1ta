@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [exil-solidare](https://github.com/exil-solidare/nextjs-frontend)
 
-- 🌐 Check out the live project: [happy-nerding-app](https://happy-nerdig-app-git-main-nikitas-projects-8a5242bb.vercel.app)
-
 - 🌱 I’m currently learning **Next JS**
 
 - 📫 How to reach me **budash.code@gmail.com**
