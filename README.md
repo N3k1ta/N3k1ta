@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [exil-solidare](https://github.com/exil-solidare/nextjs-frontend)
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning *CS50’s Introduction to Artificial Intelligence with Python**
 
 - 📫 How to reach me **budash.code@gmail.com**
 
