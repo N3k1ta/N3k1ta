@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikita Budash</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [exil-solidare](https://github.com/exil-solidare/nextjs-frontend)
+- 🔭 I’m currently working on [ ENDOLess ]([https://github.com/exil-solidare/nextjs-frontend](https://github.com/ENDOLess))
+
 
 - 🌱 I’m currently learning *CS50’s Introduction to Artificial Intelligence with Python*
 
