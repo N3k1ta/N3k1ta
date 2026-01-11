@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nikita Budash</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A Sound Professional building the future of Audio with AI</h3>
 
-- 🔭 I’m currently working on [ ENDOLess ](https://github.com/ENDOLess) 
+<br>
 
+- 🔭 I’m currently building **AI-powered audio tools**, leveraging over 15 years of experience in film post-production and sound design.
 
-- 🌱 I’m currently learning *CS50’s Introduction to Artificial Intelligence with Python*
+- 🌱 I’m currently diving deep into **Deep Learning** with Coursera's **Deep Learning Specialization** and building neural networks from scratch with **Andrej Karpathy's "Zero to Hero"**.
 
-- 📫 How to reach me **budash.code@gmail.com**
+- 🎯 My goal is to merge my expertise in audio engineering with modern AI to create the next generation of Text-to-Speech (TTS) and voice conversion technologies.
 
+- 📫 How to reach me: **budash.code@gmail.com**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
