@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently building **AI-powered audio tools**, leveraging over 15 years of experience in film post-production and sound design.
 
-- 🌱 I’m currently diving deep into **Deep Learning** with Coursera's **Deep Learning Specialization** and building neural networks from scratch with **Andrej Karpathy's "Zero to Hero"**.
+- 🌱 I’m currently diving deep into **Deep Learning** with Coursera's **Deep Learning Specialization** and building neural networks from scratch.
 
 - 🎯 My goal is to merge my expertise in audio engineering with modern AI to create the next generation of Text-to-Speech (TTS) and voice conversion technologies.
 
