@@ -1,20 +1,30 @@
 <h1 align="center">Hi 👋, I'm Nikita Budash</h1>
-<h3 align="center">A Sound Professional building the future of Audio with AI</h3>
-
+<h3 align="center">Audio Engineer turned AI/ML Engineer — building the next generation of intelligent audio tools</h3>
 <br>
 
-- 🔭 I’m currently building **AI-powered audio tools**, leveraging over 15 years of experience in film post-production and sound design.
-
-- 🌱 I’m currently diving deep into **Deep Learning** with Coursera's **Deep Learning Specialization** and building neural networks from scratch.
-
-- 🎯 My goal is to merge my expertise in audio engineering with modern AI to create the next generation of Text-to-Speech (TTS) and voice conversion technologies.
-
-- 📫 How to reach me: **budash.code@gmail.com**
+- 🎬 **15+ years** in film post-production — Disney, Paramount, Sony
+- 🧠 Building **AI-powered audio systems**: speech denoising, sound classification, voice conversion
+- 🔧 Current project: **Speech Denoising** with deep learning on VoiceBank+DEMAND dataset
+- 🎯 End goal: commercial **VST/AU plugin** powered by DeepFilterNet + JUCE
+- 📫 **budash.code@gmail.com**
 
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
 
-| | | | | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> | <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> | <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> | <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a> | <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> | <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a> | <a href="https://docs.conda.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="conda" width="40" height="40"/></a> |<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> | <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/></a> 
+<p align="center">
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>&nbsp;&nbsp;
+  <a href="https://pytorch.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/></a>&nbsp;&nbsp;
+  <a href="https://numpy.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/></a>&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a>&nbsp;&nbsp;
+  <a href="https://scikit-learn.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn"/></a>&nbsp;&nbsp;
+  <a href="https://jupyter.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/></a>&nbsp;&nbsp;
+  <a href="https://docs.conda.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Conda"/></a>
+</p>
+
+<p align="center"><sub>also worked with</sub></p>
+
+<p align="center">
+  <a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" height="28" alt="React"/></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="28" height="28" alt="Next.js"/></a>
+</p>
